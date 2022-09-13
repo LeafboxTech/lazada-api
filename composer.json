@@ -1,0 +1,17 @@
+{
+    "name": "leafboxtech/lazada-api",
+    "description": "lazada api",
+    "authors": [
+        {
+            "name": "leafboxtech",
+            "email": "nattawut@leafbox.tech"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "leafboxtech\\lazada-api\\": "src/"
+        }
+    }
+}
