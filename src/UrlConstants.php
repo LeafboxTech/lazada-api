@@ -1,5 +1,5 @@
 <?php
-namespace dangngoclinh\lazada\lazop;
+namespace leafboxtech\lazada\lazop;
 class UrlConstants
 {
 	static $api_gateway_url_sg = "https://api.lazada.sg/rest";

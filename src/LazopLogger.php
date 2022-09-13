@@ -1,5 +1,5 @@
 <?php
-namespace dangngoclinh\lazada\lazop;
+namespace leafboxtech\lazada\lazop;
 class LazopLogger
 {
 	public $conf = array(

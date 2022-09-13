@@ -1,5 +1,5 @@
 <?php
-namespace dangngoclinh\lazada\lazop;
+namespace leafboxtech\lazada\lazop;
 class Constants
 {
 	static $log_level_debug = "DEBUG";

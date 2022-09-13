@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "leafboxtech\\lazada-api\\": "src/"
+            "leafboxtech\\lazada\\": "src/"
         }
     }
 }
